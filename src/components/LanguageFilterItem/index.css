@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.filter-item {
+  margin-left: 40px;
+}
+
+.filter-btn {
+  border-width: 0px;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.selected {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 15px;
+  padding: 2px 15px;
+  display: flex;
+  align-items: center;
+}

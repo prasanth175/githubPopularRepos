@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.repo-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  background-color: #f8f8ff;
+  width: 250px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.repo-heading {
+  font-size: 25px;
+  color: red;
+  margin-bottom: 0px;
+}
+
+.count-txt {
+  font-weight: 450;
+}
+
+.count-container {
+  display: flex;
+  align-items: center;
+  width: 150px;
+}
+
+.icon {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
